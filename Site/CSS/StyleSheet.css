@@ -1,0 +1,49 @@
+﻿body {
+    background-image: url(../IMG/background28.jpg)
+}
+
+header {
+    background-image: url(../IMG/headIMG.jpg);
+    width: 1000px;
+    height: 200px;
+    border-radius: 25px;    
+    margin: auto;
+}
+
+main {
+    width: 1000px;
+    height: 700px;
+    margin: auto;
+    font-family: 'Questrial', sans-serif;
+}
+
+.rcol {
+    width: 300px;
+    height: 100%;
+    /*background-color: blueviolet;*/
+    float: left;
+    
+}
+
+.lcol{
+    width: 700px;
+    height: 100%;
+    /*background-color: chocolate;*/
+    float: left;
+    overflow: auto;
+}
+
+footer {
+    width: 1000px;
+    height: 100px;
+    background-color: darkgrey;
+    opacity: 0.7;
+    margin: auto;
+    font-family: 'Questrial', sans-serif;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+li{
+    margin: 10px;
+}
